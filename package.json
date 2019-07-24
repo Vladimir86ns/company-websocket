@@ -1,0 +1,15 @@
+{
+  "name": "meridianbet-websocket",
+  "version": "1.0.0",
+  "description": "meridianbet websocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepstream.io": "^3.2.4"
+  }
+}

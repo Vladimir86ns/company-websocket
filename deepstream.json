@@ -1,0 +1,7 @@
+{
+	"apps": [{
+	  "name": "Deepstream server",
+	  "script": "server.js"
+	}]
+  }
+  
